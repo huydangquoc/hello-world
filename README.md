@@ -1,5 +1,8 @@
 # hello-world
-just a test
+
+minh muon ghi tieng viet vao day
+vi minh la nguoi viet nam
+co van de gi khong cac ban
 
 Hi,
 I'm about to add some text here for ...I don't know.
